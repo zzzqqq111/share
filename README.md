@@ -1,5 +1,5 @@
 # 浏览器是怎么工作的
-
+视频地址：https://v.youku.com/v_show/id_XMzgxMTg2NjE2MA==.html?sharekey=04228d0dad4281b05e46f0a98b271c1b2
 ## 浏览器的主要组件
 
 - 用户界面
